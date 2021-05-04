@@ -1,0 +1,14 @@
+com/fcm_project/BuildConfig.java
+ com.fcm_project.BuildConfig
+com/fcm_project/MainActivity.java
+ com.fcm_project.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/fcm_project/MainApplication.java
+ com.fcm_project.MainApplication
+ com.fcm_project.MainApplication$1
+com/fcm_project/ReactNativeFlipper.java
+ com.fcm_project.ReactNativeFlipper
+ com.fcm_project.ReactNativeFlipper$1
+ com.fcm_project.ReactNativeFlipper$2
+ com.fcm_project.ReactNativeFlipper$2$1
